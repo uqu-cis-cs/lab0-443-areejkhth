@@ -2,7 +2,6 @@ package edu.uqu.cs;
 /*
  * Lab 0 
  * CS 1312
- *
  */
 
 /*
